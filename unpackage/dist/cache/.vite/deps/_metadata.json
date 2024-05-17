@@ -1,0 +1,25 @@
+{
+  "hash": "1e3fcbd0",
+  "configHash": "c355508c",
+  "lockfileHash": "2f8e443f",
+  "browserHash": "9daa54bf",
+  "optimized": {
+    "better-mock/dist/mock.mp.js": {
+      "src": "../../../../../node_modules/better-mock/dist/mock.mp.js",
+      "file": "better-mock_dist_mock__mp__js.js",
+      "fileHash": "230b97b9",
+      "needsInterop": true
+    },
+    "better-mock": {
+      "src": "../../../../../node_modules/better-mock/dist/mock.browser.esm.js",
+      "file": "better-mock.js",
+      "fileHash": "56f73c3d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-Y2F7D3TJ": {
+      "file": "chunk-Y2F7D3TJ.js"
+    }
+  }
+}
